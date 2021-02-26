@@ -1,0 +1,74 @@
+[
+    {
+        "id": 6,
+        "nombre": "Pastel de Moka",
+        "kilos": "3 kilos",
+        "base": "Acrílico",
+        "preparacion": {
+            "relleno": "Crema de cafe",
+            "tipoPan": "Esponjoso pan de chocolate",
+            "tipoDecoracion": "Glaseado de chocolate semi-amargo",
+            "mensaje": "Feliz Aniversario"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Pastel Chocorrol",
+        "kilos": "5 kilos",
+        "base": "Cerámica",
+        "preparacion": {
+            "relleno": "Crema de fresa",
+            "tipoPan": "Esponjoso pan de chocolate",
+            "tipoDecoracion": "Glaseado de chocolate semi-amargo",
+            "mensaje": "Feliz Cumple Marco"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Pastel de Cafe",
+        "kilos": "2 kilos",
+        "base": "Madera",
+        "preparacion": {
+            "relleno": "Crema de cafe",
+            "tipoPan": "Bizcocho de chocolate",
+            "tipoDecoracion": "Glaseado de chocolate semi-amargo",
+            "mensaje": "Felicidades"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Pastel de Frutas",
+        "kilos": "3 kilos",
+        "base": "Acrílico",
+        "preparacion": {
+            "relleno": "Durazno",
+            "tipoPan": "Esponjoso pan de chocolate",
+            "tipoDecoracion": "Frutas frescas",
+            "mensaje": "Feliz Aniversario"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Pastel de Rompope",
+        "kilos": "4 kilos",
+        "base": "Cerámica",
+        "preparacion": {
+            "relleno": "Crema de rompope",
+            "tipoPan": "Esponjoso pan de vainilla",
+            "tipoDecoracion": "Crema de batir sabor vainilla",
+            "mensaje": "Felicidades Monica"
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Pastel de Zanahoria",
+        "kilos": "2 kilos",
+        "base": "Madera",
+        "preparacion": {
+            "relleno": "Crema de batir blanca y trozos de nuez",
+            "tipoPan": "Bizcocho de vainilla",
+            "tipoDecoracion": "Betun de queso crema",
+            "mensaje": "Con Mucho Amor"
+        }
+    }
+]
